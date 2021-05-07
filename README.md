@@ -12,4 +12,7 @@ https://www.linux.com/training-tutorials/beaglebone-black-how-get-interrupts-thr
 Kernel driver </br>
 https://www.raspberrypi.org/forums/viewtopic.php?t=191022
 
+BBio method</br>
+https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/08/15/beaglebone-black-bbb-io-gpio-spi-and-i2c-library-for-c-2019-edition#jive_content_id_How_to_Install_the_Library
+
 
