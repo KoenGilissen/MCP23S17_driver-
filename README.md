@@ -9,4 +9,7 @@ https://stackoverflow.com/questions/65626315/why-dont-i-get-high-on-output-pins-
 Linux interrupts GPIO
 https://www.linux.com/training-tutorials/beaglebone-black-how-get-interrupts-through-linux-gpio/
 
+Kernel driver </br>
+https://www.raspberrypi.org/forums/viewtopic.php?t=191022
+
 
