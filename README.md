@@ -18,3 +18,5 @@ https://www.element14.com/community/community/designcenter/single-board-computer
 getting started with MCP23S17 </br>
 http://www.retrosemi.co.uk/mcp23s17/Getting_started_with_the_mcp23s17.pdf
 
+https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/07/28/beaglebone-enable-spi-with-overlay
+
