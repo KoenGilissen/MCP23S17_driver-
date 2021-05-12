@@ -16,7 +16,7 @@ BBio method</br>
 https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/08/15/beaglebone-black-bbb-io-gpio-spi-and-i2c-library-for-c-2019-edition#jive_content_id_How_to_Install_the_Library
 
 getting started with MCP23S17 </br>
-http://www.retrosemi.co.uk/mcp23s17/Getting_started_with_the_mcp23s17.pdf
-
-https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/07/28/beaglebone-enable-spi-with-overlay
+http://www.retrosemi.co.uk/mcp23s17/Getting_started_with_the_mcp23s17.pdf </br>
+https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/07/28/beaglebone-enable-spi-with-overlay </br>
+https://github.com/piface/libmcp23s17/blob/master/src/mcp23s17.c </br>
 
