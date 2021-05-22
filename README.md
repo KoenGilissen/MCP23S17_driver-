@@ -1,22 +1,9 @@
-# MCP23S17_driver-
+# MCP23S17_driver </br>
 Ansi C driver for MCP23S17 
 
-MSB-first </br>
-https://electronics.stackexchange.com/questions/71003/interfacing-a-mcp23s17-spi-with-a-fpga </br>
-
-https://stackoverflow.com/questions/65626315/why-dont-i-get-high-on-output-pins-of-mcp23s17 </br>
-
-Linux interrupts GPIO
-https://www.linux.com/training-tutorials/beaglebone-black-how-get-interrupts-through-linux-gpio/
-
-Kernel driver </br>
-https://www.raspberrypi.org/forums/viewtopic.php?t=191022
-
-BBio method</br>
-https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/08/15/beaglebone-black-bbb-io-gpio-spi-and-i2c-library-for-c-2019-edition#jive_content_id_How_to_Install_the_Library
-
-getting started with MCP23S17 </br>
-http://www.retrosemi.co.uk/mcp23s17/Getting_started_with_the_mcp23s17.pdf </br>
-https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/07/28/beaglebone-enable-spi-with-overlay </br>
+-- Driver: </br>
 https://github.com/piface/libmcp23s17/blob/master/src/mcp23s17.c </br>
+
+-- Hardware: </b>
+http://library.draconianfleet.com/epubfs.php?data=7566&comp=c09.xhtml </br>
 
